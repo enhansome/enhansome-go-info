@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Advanced Console UIs"
+    },
+    {
+      "description": "Libraries for working with dependency injection.",
+      "items": [],
+      "title": "Dependency Injection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DevOps Tools"
+    },
+    {
+      "description": "Libraries for making HTTP requests.",
+      "items": [],
+      "title": "HTTP Clients"
+    },
+    {
+      "description": "Libraries for working with Microsoft Excel.",
+      "items": [],
+      "title": "Microsoft Excel"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Middlewares"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Software"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Project Layout"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Routers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Standard CLI"
+    },
+    {
+      "description": "Libraries for working with strings.",
+      "items": [],
+      "title": "Strings"
+    },
+    {
+      "description": "These libraries were placed here because none of the other categories seemed to fit.\nLibraries for manipulating audio.\nLibraries for implementing authentications schemes.\nTools for building blockchains.\nLibraries for building and working with bots.\nLibraries and tools helping with build automation.\nLibraries for configuration parsing.\nTools for help with continuous integration.\nLibraries for preprocessing CSS files.\nGeneric datastructures and algorithms in Go.\nSQL query builder, libraries for building and using SQL.",
+      "items": [],
+      "title": "Uncategorized"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NoSQL Databases"
+    },
+    {
+      "description": "Libraries for working with dates and times.\nPackages that help with building Distributed Systems.\nTools for updating dynamic DNS records.\nLibraries and tools that implement email creation and sending.\nEmbedding other languages inside your go code.\nLibraries for handling errors.\nLibraries for handling files and file systems.\nPackages for accounting and finance.\nLibraries for working with forms.\nPackages to support functional programming in Go.\nAwesome game development libraries.\nTools to enhance the language with features like generics via code generation.\nGeographic tools and servers\nTools for compiling Go to other languages.\nTools for managing and working with Goroutines.\nInteraction\nLibraries, tools, and tutorials for interacting with hardware.\nLibraries for manipulating images.\nLibraries for programming devices of the IoT.\nLibraries for scheduling jobs.\nLibraries for working with JSON.\nLibraries for generating and working with log files.\nLibraries for Machine Learning.\nLibraries that implement messaging systems.\nLibraries for working with human languages.\nLibraries for working with various layers of the network.\nLibraries for using OpenGL in Go.\nLibraries that implement Object-Relational Mapping or datamapping techniques.\nUnofficial libraries for package and dependency management.\nLibraries for scientific computing and data analyzing.\nLibraries that are used to help make your application more secure.\nLibraries and tools for binary serialization.\nLibraries and tools for stream processing and reactive programming.\nLibraries and tools for templating and lexing.",
+      "items": [],
+      "title": "Relational Databases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fail injection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mock"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Specific Formats"
+    },
+    {
+      "description": "Libraries for accessing third party APIs.\nGeneral utilities and tools to make your life easier.\nLibraries for working with UUIDs.\nLibraries for validation.\nLibraries for version control.\nLibraries for manipulating video.\nFull stack web frameworks.",
+      "items": [],
+      "title": "Utility"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Actual middlewares"
+    },
+    {
+      "description": "Libraries and tools for manipulating XML.\nLibraries and tools to implement Zero Trust architectures.",
+      "items": [],
+      "title": "Libraries for creating HTTP middlewares"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "E-books for purchase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Free e-books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reddit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Twitter"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:07:34.833Z",
+    "original_repository": "plholx/awesome-go-info",
+    "original_repository_sha": "d0bb7f7f94119cba76d85d826cdf8e17df8f0ff0",
+    "enhanced_repository": "enhansome/enhansome-go-info",
+    "enhanced_repository_description": null,
+    "title": "Awesome Go Info with stars"
+  }
+}
