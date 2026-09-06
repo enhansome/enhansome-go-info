@@ -48,7 +48,7 @@
                 "open_issues": 80,
                 "owner": "uber-go",
                 "repo": "fx",
-                "stars": 7652,
+                "stars": 7653,
                 "topics": [
                   "app-framework",
                   "dependency-injection",
@@ -401,10 +401,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T23:38:21Z",
-                "open_issues": 3053,
+                "open_issues": 3065,
                 "owner": "kubernetes",
                 "repo": "kubernetes",
-                "stars": 126377,
+                "stars": 126441,
                 "topics": [
                   "cncf",
                   "containers",
@@ -427,10 +427,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T17:30:56Z",
-                "open_issues": 3881,
+                "open_issues": 3883,
                 "owner": "moby",
                 "repo": "moby",
-                "stars": 72039,
+                "stars": 72078,
                 "topics": [
                   "containers",
                   "docker",
@@ -453,10 +453,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-04T13:20:07Z",
-                "open_issues": 905,
+                "open_issues": 908,
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 64752,
+                "stars": 64763,
                 "topics": [
                   "consul",
                   "docker",
@@ -488,11 +488,11 @@
                 "id": 72495579,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T11:16:39Z",
-                "open_issues": 2534,
+                "last_commit": "2026-09-06T14:05:12Z",
+                "open_issues": 2525,
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 57836,
+                "stars": 57849,
                 "topics": [
                   "bitbucket",
                   "cicd",
@@ -556,11 +556,11 @@
                 "id": 8966356,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T00:47:55Z",
+                "last_commit": "2026-09-06T00:54:37Z",
                 "open_issues": 318,
                 "owner": "hashicorp",
                 "repo": "packer",
-                "stars": 15775,
+                "stars": 15773,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -599,10 +599,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-04T18:02:57Z",
-                "open_issues": 126,
+                "open_issues": 127,
                 "owner": "adnanh",
                 "repo": "webhook",
-                "stars": 12111,
+                "stars": 12113,
                 "topics": [
                   "automate",
                   "automation",
@@ -644,7 +644,7 @@
                 "open_issues": 243,
                 "owner": "moovweb",
                 "repo": "gvm",
-                "stars": 11682,
+                "stars": 11683,
                 "topics": [
                   "dependency-manager",
                   "golang"
@@ -728,7 +728,7 @@
                 "open_issues": 19,
                 "owner": "getanteon",
                 "repo": "anteon",
-                "stars": 8520,
+                "stars": 8519,
                 "topics": [
                   "ddosify",
                   "docker",
@@ -761,7 +761,7 @@
                 "open_issues": 0,
                 "owner": "bosun-monitor",
                 "repo": "bosun",
-                "stars": 3390,
+                "stars": 3389,
                 "topics": [
                   "alerting",
                   "bosun",
@@ -789,7 +789,7 @@
                 "open_issues": 28,
                 "owner": "codesenberg",
                 "repo": "bombardier",
-                "stars": 6831,
+                "stars": 6830,
                 "topics": [
                   "benchmarking",
                   "bombardier",
@@ -819,11 +819,11 @@
                 "id": 163722349,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T00:18:01Z",
-                "open_issues": 151,
+                "last_commit": "2026-09-06T01:56:01Z",
+                "open_issues": 153,
                 "owner": "pomerium",
                 "repo": "pomerium",
-                "stars": 4995,
+                "stars": 4996,
                 "topics": [
                   "aigateway",
                   "beyondcorp",
@@ -852,8 +852,8 @@
                 "id": 182416829,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-15T11:47:10Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-06T09:42:48Z",
+                "open_issues": 15,
                 "owner": "bitfield",
                 "repo": "script",
                 "stars": 7036,
@@ -1048,7 +1048,7 @@
                 "open_issues": 191,
                 "owner": "peak",
                 "repo": "s5cmd",
-                "stars": 4182,
+                "stars": 4183,
                 "topics": [
                   "aws",
                   "cli",
@@ -1102,7 +1102,7 @@
                 "open_issues": 276,
                 "owner": "scaleway",
                 "repo": "scaleway-cli",
-                "stars": 997,
+                "stars": 996,
                 "topics": [
                   "cli",
                   "go",
@@ -1124,8 +1124,8 @@
                 "id": 127228215,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T14:43:26Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-06T05:13:37Z",
+                "open_issues": 10,
                 "owner": "gabrie30",
                 "repo": "ghorg",
                 "stars": 2139,
@@ -1191,7 +1191,7 @@
                 "open_issues": 11,
                 "owner": "kool-dev",
                 "repo": "kool",
-                "stars": 724,
+                "stars": 723,
                 "topics": [
                   "cloud",
                   "cloud-native",
@@ -1309,8 +1309,8 @@
                 "id": 430134607,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T22:08:44Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-06T21:16:48Z",
+                "open_issues": 1,
                 "owner": "abahmed",
                 "repo": "kwatch",
                 "stars": 1017,
@@ -1850,7 +1850,7 @@
                 "id": 71052411,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-15T03:27:40Z",
+                "last_commit": "2026-09-06T12:16:39Z",
                 "open_issues": 24,
                 "owner": "appleboy",
                 "repo": "drone-scp",
@@ -1912,8 +1912,8 @@
                 "id": 210159163,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T03:16:35Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-06T18:53:31Z",
+                "open_issues": 10,
                 "owner": "oxyno-zeta",
                 "repo": "s3-proxy",
                 "stars": 485,
@@ -1972,7 +1972,7 @@
                 "id": 70957315,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-31T08:33:49Z",
+                "last_commit": "2026-09-06T12:16:36Z",
                 "open_issues": 2,
                 "owner": "appleboy",
                 "repo": "drone-jenkins",
@@ -2200,8 +2200,8 @@
                 "id": 41561105,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T18:09:44Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-06T18:31:59Z",
+                "open_issues": 13,
                 "owner": "go-resty",
                 "repo": "resty",
                 "stars": 11777,
@@ -2587,8 +2587,8 @@
                 "id": 66841911,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-05T11:01:13Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-06T00:49:33Z",
+                "open_issues": 131,
                 "owner": "qax-os",
                 "repo": "excelize",
                 "stars": 20887,
@@ -2633,7 +2633,7 @@
                 "open_issues": 13,
                 "owner": "tealeg",
                 "repo": "xlsx",
-                "stars": 5990,
+                "stars": 5989,
                 "topics": [
                   "excel",
                   "go",
@@ -2748,11 +2748,11 @@
                 "id": 107286889,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T22:33:35Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-06T19:58:17Z",
+                "open_issues": 1,
                 "owner": "schollz",
                 "repo": "croc",
-                "stars": 40241,
+                "stars": 40253,
                 "topics": [
                   "data-transfer",
                   "file-sharing",
@@ -2778,10 +2778,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-01T01:43:58Z",
-                "open_issues": 588,
+                "open_issues": 590,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 35877,
+                "stars": 35898,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -2832,7 +2832,7 @@
                 "id": 1128557039,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T19:35:01Z",
+                "last_commit": "2026-09-06T04:41:37Z",
                 "open_issues": 1,
                 "owner": "chrislusf",
                 "repo": "seaweedfs",
@@ -2882,10 +2882,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-01T07:05:04Z",
-                "open_issues": 104,
+                "open_issues": 108,
                 "owner": "Shopify",
                 "repo": "toxiproxy",
-                "stars": 12303,
+                "stars": 12305,
                 "topics": [
                   "chaos",
                   "down",
@@ -2916,7 +2916,7 @@
                 "open_issues": 178,
                 "owner": "kelseyhightower",
                 "repo": "confd",
-                "stars": 8429,
+                "stars": 8430,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -3031,8 +3031,8 @@
                 "id": 123394155,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T20:56:07Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-05T23:30:20Z",
+                "open_issues": 28,
                 "owner": "boyter",
                 "repo": "scc",
                 "stars": 8723,
@@ -3200,7 +3200,7 @@
                 "open_issues": 151,
                 "owner": "intelsdi-x",
                 "repo": "snap",
-                "stars": 1780,
+                "stars": 1779,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -3246,7 +3246,7 @@
                 "open_issues": 46,
                 "owner": "documize",
                 "repo": "community",
-                "stars": 2414,
+                "stars": 2415,
                 "topics": [
                   "collaboration",
                   "confluence",
@@ -3287,7 +3287,7 @@
                 "open_issues": 42,
                 "owner": "0xERR0R",
                 "repo": "blocky",
-                "stars": 6917,
+                "stars": 6922,
                 "topics": [
                   "ad-blocker",
                   "adblock",
@@ -3343,7 +3343,7 @@
                 "open_issues": 6,
                 "owner": "msoap",
                 "repo": "shell2http",
-                "stars": 1506,
+                "stars": 1505,
                 "topics": [
                   "bash",
                   "cli",
@@ -3428,7 +3428,7 @@
                 "open_issues": 39,
                 "owner": "root-gg",
                 "repo": "plik",
-                "stars": 1815,
+                "stars": 1818,
                 "topics": [
                   "docker",
                   "e2ee",
@@ -3869,7 +3869,7 @@
                 "open_issues": 4,
                 "owner": "assafmo",
                 "repo": "joincap",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "command-line",
                   "commandline",
@@ -4206,7 +4206,7 @@
                 "open_issues": 95,
                 "owner": "golang-standards",
                 "repo": "project-layout",
-                "stars": 56543,
+                "stars": 56547,
                 "topics": [
                   "go",
                   "golang",
@@ -4233,7 +4233,7 @@
                 "open_issues": 95,
                 "owner": "golang-standards",
                 "repo": "project-layout",
-                "stars": 56543,
+                "stars": 56547,
                 "topics": [
                   "go",
                   "golang",
@@ -4356,7 +4356,7 @@
                 "id": 260322624,
                 "language": "Makefile",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-02T13:28:42Z",
+                "last_commit": "2026-09-06T01:00:01Z",
                 "open_issues": 5,
                 "owner": "golang-templates",
                 "repo": "seed",
@@ -4578,7 +4578,7 @@
                 "open_issues": 40,
                 "owner": "gorilla",
                 "repo": "mux",
-                "stars": 21844,
+                "stars": 21843,
                 "topics": [
                   "go",
                   "golang",
@@ -4636,7 +4636,7 @@
                 "open_issues": 88,
                 "owner": "go-chi",
                 "repo": "chi",
-                "stars": 22783,
+                "stars": 22785,
                 "topics": [
                   "api",
                   "context",
@@ -5368,10 +5368,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T01:32:24Z",
-                "open_issues": 219,
+                "open_issues": 220,
                 "owner": "shirou",
                 "repo": "gopsutil",
-                "stars": 11909,
+                "stars": 11910,
                 "topics": [
                   "go",
                   "golang",
@@ -5396,7 +5396,7 @@
                 "open_issues": 10,
                 "owner": "mholt",
                 "repo": "archiver",
-                "stars": 4379,
+                "stars": 4378,
                 "topics": [
                   "7zip",
                   "archives",
@@ -5463,10 +5463,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T21:05:18Z",
-                "open_issues": 383,
+                "open_issues": 382,
                 "owner": "TwiN",
                 "repo": "gatus",
-                "stars": 11996,
+                "stars": 12007,
                 "topics": [
                   "alerting",
                   "container",
@@ -6772,7 +6772,7 @@
             "open_issues": 19,
             "owner": "ebitengine",
             "repo": "oto",
-            "stars": 1961,
+            "stars": 1964,
             "topics": [
               "audio",
               "go",
@@ -6888,7 +6888,7 @@
             "open_issues": 11,
             "owner": "DylanMeeus",
             "repo": "GoAudio",
-            "stars": 431,
+            "stars": 432,
             "topics": [
               "audio",
               "go",
@@ -7082,10 +7082,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-21T08:53:52Z",
-            "open_issues": 45,
+            "open_issues": 47,
             "owner": "apache",
             "repo": "casbin",
-            "stars": 20372,
+            "stars": 20371,
             "topics": [
               "abac",
               "access-control",
@@ -7151,7 +7151,7 @@
             "open_issues": 147,
             "owner": "markbates",
             "repo": "goth",
-            "stars": 6598,
+            "stars": 6597,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -7354,7 +7354,7 @@
             "open_issues": 21,
             "owner": "alexedwards",
             "repo": "scs",
-            "stars": 2617,
+            "stars": 2616,
             "topics": [
               "context",
               "go",
@@ -8068,10 +8068,10 @@
             "language": "Go",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-04T20:31:13Z",
-            "open_issues": 438,
+            "open_issues": 440,
             "owner": "ethereum",
             "repo": "go-ethereum",
-            "stars": 51327,
+            "stars": 51332,
             "topics": [
               "blockchain",
               "ethereum",
@@ -8098,7 +8098,7 @@
             "open_issues": 21,
             "owner": "tendermint",
             "repo": "tendermint",
-            "stars": 5866,
+            "stars": 5865,
             "topics": [
               "bft",
               "blockchain",
@@ -8129,7 +8129,7 @@
             "open_issues": 230,
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7053,
+            "stars": 7054,
             "topics": [
               "blockchain",
               "cometbft",
@@ -8278,7 +8278,7 @@
             "open_issues": 66,
             "owner": "tucnak",
             "repo": "telebot",
-            "stars": 4630,
+            "stars": 4631,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -8845,7 +8845,7 @@
             "open_issues": 0,
             "owner": "mymmrac",
             "repo": "telego",
-            "stars": 1072,
+            "stars": 1071,
             "topics": [
               "bot",
               "bot-api",
@@ -8908,11 +8908,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T22:31:37Z",
+            "last_commit": "2026-09-06T18:16:33Z",
             "open_issues": 200,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16099,
+            "stars": 16103,
             "topics": [
               "build-tool",
               "devops",
@@ -8975,7 +8975,7 @@
             "open_issues": 128,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4690,
+            "stars": 4689,
             "topics": [
               "buildscript",
               "go",
@@ -9032,7 +9032,7 @@
             "open_issues": 8,
             "owner": "goyek",
             "repo": "goyek",
-            "stars": 697,
+            "stars": 698,
             "topics": [
               "go",
               "golang"
@@ -9169,7 +9169,7 @@
             "open_issues": 133,
             "owner": "spf13",
             "repo": "viper",
-            "stars": 30454,
+            "stars": 30453,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -9190,7 +9190,7 @@
             "open_issues": 81,
             "owner": "joho",
             "repo": "godotenv",
-            "stars": 10610,
+            "stars": 10612,
             "topics": [
               "dotenv",
               "environment-variables",
@@ -9216,7 +9216,7 @@
             "open_issues": 58,
             "owner": "kelseyhightower",
             "repo": "envconfig",
-            "stars": 5469,
+            "stars": 5470,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -9264,7 +9264,7 @@
             "open_issues": 30,
             "owner": "caarlos0",
             "repo": "env",
-            "stars": 6306,
+            "stars": 6307,
             "topics": [
               "config",
               "configuration",
@@ -9290,7 +9290,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-02T21:50:56Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "alecthomas",
             "repo": "kong",
             "stars": 3174,
@@ -9542,7 +9542,7 @@
             "open_issues": 4,
             "owner": "tucnak",
             "repo": "store",
-            "stars": 273,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -9559,7 +9559,7 @@
             "id": 65054088,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T17:21:53Z",
+            "last_commit": "2026-09-06T16:41:08Z",
             "open_issues": 4,
             "owner": "hjson",
             "repo": "hjson-go",
@@ -9937,7 +9937,7 @@
             "open_issues": 2,
             "owner": "OpenPeeDeeP",
             "repo": "xdg",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "golang",
               "golang-package",
@@ -10535,7 +10535,7 @@
             "open_issues": 106,
             "owner": "harness",
             "repo": "harness",
-            "stars": 38243,
+            "stars": 38251,
             "topics": [
               "build-automation",
               "build-pipelines",
@@ -10569,7 +10569,7 @@
             "open_issues": 161,
             "owner": "ovh",
             "repo": "cds",
-            "stars": 4839,
+            "stars": 4838,
             "topics": [
               "automation",
               "continuous-delivery",
@@ -10793,7 +10793,7 @@
             "open_issues": 73,
             "owner": "emirpasic",
             "repo": "gods",
-            "stars": 17464,
+            "stars": 17463,
             "topics": [
               "avl-tree",
               "b-tree",
@@ -10902,7 +10902,7 @@
             "open_issues": 77,
             "owner": "RoaringBitmap",
             "repo": "roaring",
-            "stars": 2932,
+            "stars": 2931,
             "topics": [
               "bitmap-compression",
               "bitset",
@@ -11186,7 +11186,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-21T07:45:40Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "jellydator",
             "repo": "ttlcache",
             "stars": 1279,
@@ -12634,10 +12634,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T17:55:58Z",
-            "open_issues": 897,
+            "open_issues": 896,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65959,
+            "stars": 65971,
             "topics": [
               "alerting",
               "graphing",
@@ -12662,11 +12662,11 @@
             "id": 41986369,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T22:46:26Z",
-            "open_issues": 6934,
+            "last_commit": "2026-09-06T22:40:41Z",
+            "open_issues": 6935,
             "owner": "pingcap",
             "repo": "tidb",
-            "stars": 40490,
+            "stars": 40494,
             "topics": [
               "agent",
               "agent-context",
@@ -12704,7 +12704,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T17:32:56Z",
-            "open_issues": 8411,
+            "open_issues": 8440,
             "owner": "cockroachdb",
             "repo": "cockroach",
             "stars": 32442,
@@ -12735,7 +12735,7 @@
             "open_issues": 2160,
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31734,
+            "stars": 31733,
             "topics": [
               "database",
               "go",
@@ -12765,7 +12765,7 @@
             "open_issues": 101,
             "owner": "dgraph-io",
             "repo": "dgraph",
-            "stars": 21787,
+            "stars": 21788,
             "topics": [
               "database",
               "distributed",
@@ -12787,11 +12787,11 @@
             "id": 11008207,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T22:26:43Z",
-            "open_issues": 1102,
+            "last_commit": "2026-09-06T15:33:11Z",
+            "open_issues": 1097,
             "owner": "vitessio",
             "repo": "vitess",
-            "stars": 21296,
+            "stars": 21298,
             "topics": [
               "cncf",
               "database-cluster",
@@ -12840,7 +12840,7 @@
             "open_issues": 68,
             "owner": "dgraph-io",
             "repo": "badger",
-            "stars": 15760,
+            "stars": 15759,
             "topics": [
               "database",
               "document-database",
@@ -12865,8 +12865,8 @@
             "id": 23247808,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T21:26:52Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-06T04:01:45Z",
+            "open_issues": 73,
             "owner": "rqlite",
             "repo": "rqlite",
             "stars": 17724,
@@ -12897,11 +12897,11 @@
             "id": 208728772,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T01:01:35Z",
-            "open_issues": 1325,
+            "last_commit": "2026-09-06T22:39:30Z",
+            "open_issues": 1326,
             "owner": "milvus-io",
             "repo": "milvus",
-            "stars": 45984,
+            "stars": 46000,
             "topics": [
               "anns",
               "cloud-native",
@@ -12941,7 +12941,7 @@
             "open_issues": 491,
             "owner": "golang-migrate",
             "repo": "migrate",
-            "stars": 18895,
+            "stars": 18899,
             "topics": [
               "aws-s3",
               "cassandra",
@@ -12982,7 +12982,7 @@
             "open_issues": 56,
             "owner": "sosedoff",
             "repo": "pgweb",
-            "stars": 9489,
+            "stars": 9493,
             "topics": [
               "cross-platform",
               "golang",
@@ -13074,7 +13074,7 @@
             "open_issues": 78,
             "owner": "patrickmn",
             "repo": "go-cache",
-            "stars": 8847,
+            "stars": 8846,
             "topics": [
               "cache",
               "go",
@@ -13095,11 +13095,11 @@
             "id": 150954997,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T14:05:48Z",
-            "open_issues": 783,
+            "last_commit": "2026-09-06T11:25:32Z",
+            "open_issues": 785,
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17662,
+            "stars": 17664,
             "topics": [
               "database",
               "grafana",
@@ -13133,7 +13133,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T13:55:41Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "allegro",
             "repo": "bigcache",
             "stars": 8159,
@@ -13163,7 +13163,7 @@
             "open_issues": 32,
             "owner": "etcd-io",
             "repo": "bbolt",
-            "stars": 9719,
+            "stars": 9722,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -13184,7 +13184,7 @@
             "open_issues": 111,
             "owner": "syndtr",
             "repo": "goleveldb",
-            "stars": 6323,
+            "stars": 6322,
             "topics": [
               "database",
               "go",
@@ -13206,10 +13206,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-03-11T04:06:29Z",
-            "open_issues": 406,
+            "open_issues": 407,
             "owner": "google",
             "repo": "leveldb",
-            "stars": 39383,
+            "stars": 39387,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -13406,7 +13406,7 @@
             "open_issues": 32,
             "owner": "tidwall",
             "repo": "buntdb",
-            "stars": 4865,
+            "stars": 4866,
             "topics": [
               "database",
               "geospatial",
@@ -13430,7 +13430,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-05T14:08:05Z",
-            "open_issues": 155,
+            "open_issues": 156,
             "owner": "go-mysql-org",
             "repo": "go-mysql",
             "stars": 4964,
@@ -13610,10 +13610,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T00:22:29Z",
-            "open_issues": 127,
+            "open_issues": 128,
             "owner": "pressly",
             "repo": "goose",
-            "stars": 11416,
+            "stars": 11419,
             "topics": [
               "database",
               "database-migrations",
@@ -13677,7 +13677,7 @@
             "open_issues": 30,
             "owner": "bluele",
             "repo": "gcache",
-            "stars": 2732,
+            "stars": 2731,
             "topics": [
               "arc",
               "cache",
@@ -13759,7 +13759,7 @@
             "open_issues": 146,
             "owner": "doug-martin",
             "repo": "goqu",
-            "stars": 2673,
+            "stars": 2674,
             "topics": [
               "database",
               "go",
@@ -13796,7 +13796,7 @@
             "open_issues": 20,
             "owner": "didi",
             "repo": "gendry",
-            "stars": 1635,
+            "stars": 1636,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -13901,7 +13901,7 @@
             "open_issues": 275,
             "owner": "ariga",
             "repo": "atlas",
-            "stars": 8700,
+            "stars": 8706,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -13922,7 +13922,7 @@
             "open_issues": 15,
             "owner": "skeema",
             "repo": "skeema",
-            "stars": 1379,
+            "stars": 1380,
             "topics": [
               "declarative",
               "mariadb",
@@ -15587,11 +15587,11 @@
                 "id": 5179099,
                 "language": "Go",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-05T11:29:17Z",
+                "last_commit": "2026-09-06T18:19:12Z",
                 "open_issues": 61,
                 "owner": "redis",
                 "repo": "go-redis",
-                "stars": 22225,
+                "stars": 22227,
                 "topics": [
                   "go",
                   "golang",
@@ -15663,7 +15663,7 @@
                 "open_issues": 116,
                 "owner": "olivere",
                 "repo": "elastic",
-                "stars": 7444,
+                "stars": 7443,
                 "topics": [
                   "elasticsearch",
                   "go"
@@ -15741,7 +15741,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T08:07:45Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "elastic",
                 "repo": "go-elasticsearch",
                 "stars": 6065,
@@ -16468,11 +16468,11 @@
                 "id": 7083242,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-05T15:51:05Z",
+                "last_commit": "2026-09-06T12:23:56Z",
                 "open_issues": 58,
                 "owner": "go-sql-driver",
                 "repo": "mysql",
-                "stars": 15278,
+                "stars": 15281,
                 "topics": [
                   "database",
                   "go",
@@ -16500,7 +16500,7 @@
                 "open_issues": 52,
                 "owner": "lib",
                 "repo": "pq",
-                "stars": 9956,
+                "stars": 9957,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -16518,10 +16518,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-05T05:44:12Z",
-                "open_issues": 151,
+                "open_issues": 150,
                 "owner": "mattn",
                 "repo": "go-sqlite3",
-                "stars": 9235,
+                "stars": 9236,
                 "topics": [
                   "go",
                   "sqlite",
@@ -16543,10 +16543,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-05T17:00:00Z",
-                "open_issues": 257,
+                "open_issues": 259,
                 "owner": "jackc",
                 "repo": "pgx",
-                "stars": 14227,
+                "stars": 14229,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -16828,10 +16828,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-05T17:00:00Z",
-                "open_issues": 257,
+                "open_issues": 259,
                 "owner": "jackc",
                 "repo": "pgx",
-                "stars": 14227,
+                "stars": 14229,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -17061,7 +17061,7 @@
             "open_issues": 1,
             "owner": "relvacode",
             "repo": "iso8601",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "date",
               "datetime",
@@ -17394,8 +17394,8 @@
             "id": 29217054,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T09:52:12Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-06T10:02:57Z",
+            "open_issues": 5,
             "owner": "micro",
             "repo": "go-micro",
             "stars": 23058,
@@ -17428,7 +17428,7 @@
             "open_issues": 112,
             "owner": "go-kratos",
             "repo": "kratos",
-            "stars": 25908,
+            "stars": 25907,
             "topics": [
               "ai",
               "architecture",
@@ -17464,7 +17464,7 @@
             "open_issues": 138,
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23043,
+            "stars": 23046,
             "topics": [
               "dogs-over-cats",
               "giant-robots",
@@ -17496,7 +17496,7 @@
             "open_issues": 247,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33308,
+            "stars": 33310,
             "topics": [
               "ai-native",
               "ai-native-development",
@@ -17535,10 +17535,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T16:57:11Z",
-            "open_issues": 536,
+            "open_issues": 537,
             "owner": "nats-io",
             "repo": "nats-server",
-            "stars": 20666,
+            "stars": 20672,
             "topics": [
               "cloud",
               "cloud-computing",
@@ -17603,7 +17603,7 @@
             "open_issues": 52,
             "owner": "hashicorp",
             "repo": "raft",
-            "stars": 9117,
+            "stars": 9118,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -17655,11 +17655,11 @@
             "id": 28986292,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T08:48:05Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-06T11:53:45Z",
+            "open_issues": 69,
             "owner": "anacrolix",
             "repo": "torrent",
-            "stars": 6104,
+            "stars": 6106,
             "topics": [
               "bittorrent",
               "go",
@@ -17971,7 +17971,7 @@
             "open_issues": 3,
             "owner": "bsm",
             "repo": "redislock",
-            "stars": 1768,
+            "stars": 1767,
             "topics": [
               "distlock",
               "distributed",
@@ -18129,7 +18129,7 @@
             "open_issues": 380,
             "owner": "zeromq",
             "repo": "libzmq",
-            "stars": 10981,
+            "stars": 10984,
             "topics": [
               "concurrency",
               "libzmq",
@@ -18406,7 +18406,7 @@
             "open_issues": 5,
             "owner": "vectaport",
             "repo": "flowgraph",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "dataflow",
               "distributed",
@@ -18705,7 +18705,7 @@
             "open_issues": 22,
             "owner": "matcornic",
             "repo": "hermes",
-            "stars": 3028,
+            "stars": 3031,
             "topics": [
               "awesome-go",
               "email",
@@ -18760,7 +18760,7 @@
             "open_issues": 76,
             "owner": "emersion",
             "repo": "go-imap",
-            "stars": 2350,
+            "stars": 2349,
             "topics": [
               "client",
               "imap",
@@ -18809,8 +18809,8 @@
             "id": 17270216,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T16:52:13Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-06T16:53:08Z",
+            "open_issues": 3,
             "owner": "mailgun",
             "repo": "mailgun-go",
             "stars": 745,
@@ -19071,7 +19071,7 @@
             "open_issues": 5,
             "owner": "mocktools",
             "repo": "go-smtp-mock",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "developer-tools",
               "fake-server",
@@ -19145,10 +19145,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-04-01T00:54:16Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "yuin",
             "repo": "gopher-lua",
-            "stars": 6978,
+            "stars": 6979,
             "topics": [
               "go",
               "gopher-lua",
@@ -19169,7 +19169,7 @@
             "id": 72888736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T20:16:22Z",
+            "last_commit": "2026-09-06T21:09:08Z",
             "open_issues": 29,
             "owner": "dop251",
             "repo": "goja",
@@ -19197,7 +19197,7 @@
             "open_issues": 90,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3832,
+            "stars": 3833,
             "topics": [
               "compiler",
               "embedded-language",
@@ -19327,8 +19327,8 @@
             "id": 163221062,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T05:03:42Z",
-            "open_issues": 110,
+            "last_commit": "2026-09-06T07:48:18Z",
+            "open_issues": 108,
             "owner": "metacall",
             "repo": "core",
             "stars": 1818,
@@ -19578,10 +19578,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-04-01T00:54:16Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "yuin",
             "repo": "gopher-lua",
-            "stars": 6978,
+            "stars": 6979,
             "topics": [
               "go",
               "gopher-lua",
@@ -19685,7 +19685,7 @@
             "open_issues": 44,
             "owner": "pkg",
             "repo": "errors",
-            "stars": 8257,
+            "stars": 8258,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -19757,7 +19757,7 @@
             "open_issues": 44,
             "owner": "pkg",
             "repo": "errors",
-            "stars": 8257,
+            "stars": 8258,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -19778,7 +19778,7 @@
             "open_issues": 7,
             "owner": "joomcode",
             "repo": "errorx",
-            "stars": 1270,
+            "stars": 1271,
             "topics": [
               "error-handling",
               "errors",
@@ -19913,7 +19913,7 @@
             "open_issues": 44,
             "owner": "pkg",
             "repo": "errors",
-            "stars": 8257,
+            "stars": 8258,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -20107,10 +20107,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T10:03:29Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "pdfcpu",
             "repo": "pdfcpu",
-            "stars": 8820,
+            "stars": 8824,
             "topics": [
               "cli",
               "go",
@@ -20136,10 +20136,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-04T23:36:37Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "dundee",
             "repo": "gdu",
-            "stars": 5961,
+            "stars": 5964,
             "topics": [
               "cli",
               "disk-usage",
@@ -20661,7 +20661,7 @@
             "open_issues": 37,
             "owner": "todotxt",
             "repo": "todo.txt",
-            "stars": 3388,
+            "stars": 3391,
             "topics": [
               "todo",
               "todos",
@@ -20759,7 +20759,7 @@
             "open_issues": 33,
             "owner": "achannarasappa",
             "repo": "ticker",
-            "stars": 6224,
+            "stars": 6225,
             "topics": [
               "bitcoin",
               "crypto-trading",
@@ -20826,7 +20826,7 @@
             "open_issues": 28,
             "owner": "Rhymond",
             "repo": "go-money",
-            "stars": 1911,
+            "stars": 1912,
             "topics": [
               "currency",
               "formatter",
@@ -20874,7 +20874,7 @@
             "open_issues": 17,
             "owner": "sdcoffey",
             "repo": "techan",
-            "stars": 909,
+            "stars": 908,
             "topics": [
               "bitcoin",
               "cryptocurrency",
@@ -20932,8 +20932,8 @@
             "id": 256256886,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T12:52:12Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-06T19:41:50Z",
+            "open_issues": 3,
             "owner": "bojanz",
             "repo": "currency",
             "stars": 644,
@@ -21342,7 +21342,7 @@
             "open_issues": 16,
             "owner": "go-playground",
             "repo": "form",
-            "stars": 929,
+            "stars": 928,
             "topics": [
               "decoding",
               "encoder",
@@ -21647,11 +21647,11 @@
             "id": 10721619,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T17:45:42Z",
-            "open_issues": 290,
+            "last_commit": "2026-09-06T19:03:08Z",
+            "open_issues": 286,
             "owner": "hajimehoshi",
             "repo": "ebiten",
-            "stars": 13445,
+            "stars": 13448,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -21685,7 +21685,7 @@
             "open_issues": 26,
             "owner": "name5566",
             "repo": "leaf",
-            "stars": 5517,
+            "stars": 5516,
             "topics": [
               "game-framework",
               "game-server",
@@ -21887,7 +21887,7 @@
             "open_issues": 67,
             "owner": "topfreegames",
             "repo": "pitaya",
-            "stars": 2826,
+            "stars": 2827,
             "topics": [
               "android",
               "game",
@@ -21991,7 +21991,7 @@
             "open_issues": 8,
             "owner": "gen2brain",
             "repo": "raylib-go",
-            "stars": 2523,
+            "stars": 2524,
             "topics": [
               "android",
               "game-engine",
@@ -22082,7 +22082,7 @@
             "open_issues": 2,
             "owner": "kelindar",
             "repo": "tile",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "2d",
               "bfs",
@@ -22142,7 +22142,7 @@
             "open_issues": 19,
             "owner": "dave",
             "repo": "jennifer",
-            "stars": 3628,
+            "stars": 3629,
             "topics": [
               "code-generation",
               "code-generator",
@@ -22305,7 +22305,7 @@
             "open_issues": 21,
             "owner": "jmattheis",
             "repo": "goverter",
-            "stars": 879,
+            "stars": 880,
             "topics": [
               "code-generation",
               "converter",
@@ -22334,7 +22334,7 @@
             "open_issues": 0,
             "owner": "ungerik",
             "repo": "pkgreflect",
-            "stars": 104,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -22480,7 +22480,7 @@
             "open_issues": 163,
             "owner": "tidwall",
             "repo": "tile38",
-            "stars": 9723,
+            "stars": 9725,
             "topics": [
               "database",
               "geo",
@@ -22864,7 +22864,7 @@
             "id": 125224803,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2025-11-21T18:06:09Z",
+            "last_commit": "2026-09-06T14:51:13Z",
             "open_issues": 1,
             "owner": "andygeiss",
             "repo": "esp32-transpiler",
@@ -24026,11 +24026,11 @@
             "id": 120227732,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T17:37:37Z",
-            "open_issues": 732,
+            "last_commit": "2026-09-06T10:05:10Z",
+            "open_issues": 733,
             "owner": "fyne-io",
             "repo": "fyne",
-            "stars": 28679,
+            "stars": 28680,
             "topics": [
               "android",
               "cross-platform",
@@ -24160,7 +24160,7 @@
             "open_issues": 3,
             "owner": "go-vgo",
             "repo": "robotgo",
-            "stars": 10787,
+            "stars": 10790,
             "topics": [
               "ai",
               "auto-test",
@@ -24197,7 +24197,7 @@
             "open_issues": 345,
             "owner": "lxn",
             "repo": "walk",
-            "stars": 7101,
+            "stars": 7100,
             "topics": [
               "declarative",
               "declarative-ui",
@@ -24537,7 +24537,7 @@
             "open_issues": 263,
             "owner": "arduino",
             "repo": "arduino-cli",
-            "stars": 5015,
+            "stars": 5019,
             "topics": [
               "arduino",
               "cli",
@@ -24744,7 +24744,7 @@
             "open_issues": 357,
             "owner": "hybridgroup",
             "repo": "gocv",
-            "stars": 7496,
+            "stars": 7497,
             "topics": [
               "computer-vision",
               "computervision",
@@ -24851,7 +24851,7 @@
             "open_issues": 18,
             "owner": "anthonynsimon",
             "repo": "bild",
-            "stars": 4209,
+            "stars": 4210,
             "topics": [
               "algorithm",
               "concurrency",
@@ -24977,7 +24977,7 @@
             "open_issues": 16,
             "owner": "ajstarks",
             "repo": "svgo",
-            "stars": 2249,
+            "stars": 2250,
             "topics": [
               "go",
               "golang",
@@ -25930,7 +25930,7 @@
             "open_issues": 128,
             "owner": "TIBCOSoftware",
             "repo": "flogo",
-            "stars": 2491,
+            "stars": 2492,
             "topics": [
               "aws-lambda",
               "edge",
@@ -26039,7 +26039,7 @@
             "open_issues": 9,
             "owner": "goiot",
             "repo": "devices",
-            "stars": 265,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -26213,7 +26213,7 @@
             "open_issues": 9,
             "owner": "roylee0704",
             "repo": "gron",
-            "stars": 1034,
+            "stars": 1033,
             "topics": [
               "cron-jobs",
               "golang",
@@ -26626,8 +26626,8 @@
             "id": 255132844,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-22T04:16:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-06T06:01:22Z",
+            "open_issues": 0,
             "owner": "ohler55",
             "repo": "ojg",
             "stars": 955,
@@ -28609,7 +28609,7 @@
             "open_issues": 96,
             "owner": "debug-js",
             "repo": "debug",
-            "stars": 11453,
+            "stars": 11454,
             "topics": [
               "browser",
               "debug",
@@ -28775,7 +28775,7 @@
             "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 3000,
+            "stars": 3001,
             "topics": [
               "c",
               "csharp",
@@ -29017,7 +29017,7 @@
             "open_issues": 44,
             "owner": "oramasearch",
             "repo": "onnx-go",
-            "stars": 907,
+            "stars": 908,
             "topics": [
               "go",
               "gorgonia",
@@ -29659,7 +29659,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-04T15:43:33Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "IBM",
             "repo": "sarama",
             "stars": 12512,
@@ -29687,7 +29687,7 @@
             "open_issues": 67,
             "owner": "appleboy",
             "repo": "gorush",
-            "stars": 8767,
+            "stars": 8766,
             "topics": [
               "android",
               "apns",
@@ -29780,11 +29780,11 @@
             "id": 33208063,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T17:08:44Z",
+            "last_commit": "2026-09-06T17:12:54Z",
             "open_issues": 24,
             "owner": "centrifugal",
             "repo": "centrifugo",
-            "stars": 10718,
+            "stars": 10720,
             "topics": [
               "ably",
               "alternative",
@@ -29843,8 +29843,8 @@
             "id": 54435102,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-09-05T07:13:46Z",
-            "open_issues": 340,
+            "last_commit": "2026-09-06T03:29:21Z",
+            "open_issues": 341,
             "owner": "redpanda-data",
             "repo": "connect",
             "stars": 8738,
@@ -29886,7 +29886,7 @@
             "open_issues": 168,
             "owner": "nats-io",
             "repo": "nats.go",
-            "stars": 6740,
+            "stars": 6741,
             "topics": [
               "cloud-native",
               "cloud-native-architectures",
@@ -29913,7 +29913,7 @@
             "id": 63196359,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T13:19:05Z",
+            "last_commit": "2026-09-06T01:54:31Z",
             "open_issues": 280,
             "owner": "confluentinc",
             "repo": "confluent-kafka-go",
@@ -29947,7 +29947,7 @@
             "open_issues": 23,
             "owner": "dunglas",
             "repo": "mercure",
-            "stars": 5304,
+            "stars": 5305,
             "topics": [
               "api",
               "async-api",
@@ -30428,7 +30428,7 @@
             "open_issues": 4,
             "owner": "desertbit",
             "repo": "glue",
-            "stars": 422,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -31172,7 +31172,7 @@
             "open_issues": 700,
             "owner": "fxsjy",
             "repo": "jieba",
-            "stars": 35139,
+            "stars": 35143,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -31792,7 +31792,7 @@
             "open_issues": 3,
             "owner": "m1",
             "repo": "go-localize",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "go",
               "go-generate",
@@ -32013,7 +32013,7 @@
             "open_issues": 56,
             "owner": "cjhutto",
             "repo": "vaderSentiment",
-            "stars": 5058,
+            "stars": 5059,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -32245,11 +32245,11 @@
             "id": 44498957,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T07:53:33Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-06T13:46:47Z",
+            "open_issues": 84,
             "owner": "valyala",
             "repo": "fasthttp",
-            "stars": 23463,
+            "stars": 23466,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -32266,11 +32266,11 @@
             "id": 134012064,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T18:39:28Z",
+            "last_commit": "2026-09-06T21:58:29Z",
             "open_issues": 118,
             "owner": "pion",
             "repo": "webrtc",
-            "stars": 16759,
+            "stars": 16760,
             "topics": [
               "audio",
               "go",
@@ -32308,11 +32308,11 @@
             "id": 55637575,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T10:14:04Z",
-            "open_issues": 215,
+            "last_commit": "2026-09-06T07:22:53Z",
+            "open_issues": 213,
             "owner": "quic-go",
             "repo": "quic-go",
-            "stars": 11756,
+            "stars": 11755,
             "topics": [
               "go",
               "golang",
@@ -32507,7 +32507,7 @@
             "open_issues": 63,
             "owner": "gliderlabs",
             "repo": "ssh",
-            "stars": 4173,
+            "stars": 4174,
             "topics": [
               "golang",
               "golang-package",
@@ -32560,7 +32560,7 @@
             "open_issues": 86,
             "owner": "fortio",
             "repo": "fortio",
-            "stars": 3722,
+            "stars": 3724,
             "topics": [
               "go",
               "golang",
@@ -32652,8 +32652,8 @@
             "id": 44139350,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-04T16:42:51Z",
-            "open_issues": 173,
+            "last_commit": "2026-09-06T05:30:28Z",
+            "open_issues": 175,
             "owner": "hashicorp",
             "repo": "go-getter",
             "stars": 1823,
@@ -32677,7 +32677,7 @@
             "open_issues": 65,
             "owner": "aregm",
             "repo": "nff-go",
-            "stars": 1419,
+            "stars": 1418,
             "topics": [
               "cloud",
               "cloud-native",
@@ -32762,7 +32762,7 @@
             "language": "Go",
             "license": "ISC",
             "last_commit": "2026-08-22T01:24:35Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "jlaffaye",
             "repo": "ftp",
             "stars": 1403,
@@ -32811,7 +32811,7 @@
             "open_issues": 67,
             "owner": "gosnmp",
             "repo": "gosnmp",
-            "stars": 1253,
+            "stars": 1252,
             "topics": [
               "go",
               "golang",
@@ -33415,7 +33415,7 @@
             "open_issues": 6,
             "owner": "FenkoHQ",
             "repo": "dnsmonster",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "dns",
               "dns-server",
@@ -33992,7 +33992,7 @@
             "open_issues": 524,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39943,
+            "stars": 39944,
             "topics": [
               "go",
               "golang",
@@ -34074,7 +34074,7 @@
             "open_issues": 108,
             "owner": "aarondl",
             "repo": "sqlboiler",
-            "stars": 6991,
+            "stars": 6990,
             "topics": [
               "database",
               "go",
@@ -34932,10 +34932,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T22:30:11Z",
-            "open_issues": 562,
+            "open_issues": 563,
             "owner": "jaegertracing",
             "repo": "jaeger",
-            "stars": 23190,
+            "stars": 23194,
             "topics": [
               "cncf",
               "distributed-tracing",
@@ -34964,7 +34964,7 @@
             "open_issues": 395,
             "owner": "pixie-io",
             "repo": "pixie",
-            "stars": 6532,
+            "stars": 6531,
             "topics": [
               "aks",
               "apache-arrow",
@@ -35006,7 +35006,7 @@
             "open_issues": 8,
             "owner": "arl",
             "repo": "statsviz",
-            "stars": 3646,
+            "stars": 3647,
             "topics": [
               "garbage-collector",
               "go",
@@ -35122,7 +35122,7 @@
             "open_issues": 382,
             "owner": "99designs",
             "repo": "gqlgen",
-            "stars": 10759,
+            "stars": 10758,
             "topics": [
               "codegen",
               "dataloader",
@@ -35176,7 +35176,7 @@
             "open_issues": 26,
             "owner": "thedevsaddam",
             "repo": "gojsonq",
-            "stars": 2223,
+            "stars": 2222,
             "topics": [
               "go-json",
               "go-json-query",
@@ -35576,7 +35576,7 @@
             "open_issues": 38,
             "owner": "GeertJohan",
             "repo": "go.rice",
-            "stars": 2438,
+            "stars": 2437,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -35642,7 +35642,7 @@
             "open_issues": 14,
             "owner": "UnnoTed",
             "repo": "fileb0x",
-            "stars": 634,
+            "stars": 633,
             "topics": [
               "embed",
               "embed-files",
@@ -36663,7 +36663,7 @@
             "open_issues": 18,
             "owner": "FiloSottile",
             "repo": "age",
-            "stars": 23430,
+            "stars": 23448,
             "topics": [
               "age-encryption",
               "built-at-rc"
@@ -36684,10 +36684,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-05T11:38:11Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "go-acme",
             "repo": "lego",
-            "stars": 9855,
+            "stars": 9859,
             "topics": [
               "acme",
               "acme-client",
@@ -36749,7 +36749,7 @@
             "open_issues": 19,
             "owner": "Ullaakut",
             "repo": "cameradar",
-            "stars": 5177,
+            "stars": 5179,
             "topics": [
               "cameras",
               "cctv",
@@ -37557,7 +37557,7 @@
             "open_issues": 272,
             "owner": "json-iterator",
             "repo": "go",
-            "stars": 13872,
+            "stars": 13871,
             "topics": [
               "deserialization",
               "go",
@@ -37587,7 +37587,7 @@
             "open_issues": 115,
             "owner": "golang",
             "repo": "protobuf",
-            "stars": 10087,
+            "stars": 10086,
             "topics": [
               "go",
               "golang",
@@ -37613,7 +37613,7 @@
             "open_issues": 81,
             "owner": "mitchellh",
             "repo": "mapstructure",
-            "stars": 8026,
+            "stars": 8025,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -37634,7 +37634,7 @@
             "open_issues": 233,
             "owner": "gogo",
             "repo": "protobuf",
-            "stars": 5664,
+            "stars": 5663,
             "topics": [
               "go",
               "golang",
@@ -38107,10 +38107,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T07:09:20Z",
-            "open_issues": 342,
+            "open_issues": 344,
             "owner": "etcd-io",
             "repo": "etcd",
-            "stars": 52234,
+            "stars": 52238,
             "topics": [
               "cncf",
               "consensus",
@@ -38138,11 +38138,11 @@
             "id": 29207621,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T13:37:57Z",
+            "last_commit": "2026-09-06T13:20:44Z",
             "open_issues": 272,
             "owner": "caddyserver",
             "repo": "caddy",
-            "stars": 75509,
+            "stars": 75529,
             "topics": [
               "acme",
               "automatic-https",
@@ -38179,7 +38179,7 @@
             "open_issues": 80,
             "owner": "minio",
             "repo": "minio",
-            "stars": 61372,
+            "stars": 61373,
             "topics": [
               "amazon-s3",
               "cloud",
@@ -38210,7 +38210,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-03T12:35:57Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "roadrunner-server",
             "repo": "roadrunner",
             "stars": 8503,
@@ -38242,7 +38242,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-03T12:35:57Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "roadrunner-server",
             "repo": "roadrunner",
             "stars": 8503,
@@ -38318,7 +38318,7 @@
             "open_issues": 178,
             "owner": "drakkan",
             "repo": "sftpgo",
-            "stars": 12492,
+            "stars": 12494,
             "topics": [
               "azure-blob",
               "cloud-storage",
@@ -38426,7 +38426,7 @@
             "open_issues": 57,
             "owner": "getfider",
             "repo": "fider",
-            "stars": 4495,
+            "stars": 4498,
             "topics": [
               "customer",
               "feature-request",
@@ -38477,11 +38477,11 @@
             "id": 72894587,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T21:51:35Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-06T20:31:01Z",
+            "open_issues": 42,
             "owner": "flipt-io",
             "repo": "flipt",
-            "stars": 4887,
+            "stars": 4888,
             "topics": [
               "cloudnative",
               "continuous-delivery",
@@ -38611,11 +38611,11 @@
             "id": 320579524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T00:30:03Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-06T20:47:47Z",
+            "open_issues": 29,
             "owner": "thomaspoignant",
             "repo": "go-feature-flag",
-            "stars": 2100,
+            "stars": 2101,
             "topics": [
               "beginner-friendly",
               "continuous-delivery",
@@ -39011,7 +39011,7 @@
             "id": 303587126,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T16:01:36Z",
+            "last_commit": "2026-09-06T04:44:28Z",
             "open_issues": 11,
             "owner": "fulminate-io",
             "repo": "machine",
@@ -39107,7 +39107,7 @@
             "open_issues": 189,
             "owner": "Masterminds",
             "repo": "sprig",
-            "stars": 4739,
+            "stars": 4740,
             "topics": [
               "go",
               "template",
@@ -39727,7 +39727,7 @@
                 "open_issues": 81,
                 "owner": "golang",
                 "repo": "mock",
-                "stars": 9340,
+                "stars": 9339,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -39800,7 +39800,7 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-03T19:00:56Z",
-                "open_issues": 52,
+                "open_issues": 54,
                 "owner": "vektra",
                 "repo": "mockery",
                 "stars": 7160,
@@ -40018,7 +40018,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-17T07:07:56Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "mxschmitt",
                 "repo": "playwright-go",
                 "stars": 3494,
@@ -40073,7 +40073,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-17T07:07:56Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "mxschmitt",
                 "repo": "playwright-go",
                 "stars": 3494,
@@ -40479,7 +40479,7 @@
                 "open_issues": 92,
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2671,
+                "stars": 2672,
                 "topics": [
                   "functional-testing",
                   "gherkin",
@@ -40631,7 +40631,7 @@
                 "open_issues": 39,
                 "owner": "orlangure",
                 "repo": "gnomock",
-                "stars": 1489,
+                "stars": 1488,
                 "topics": [
                   "cockroachdb",
                   "docker",
@@ -40743,7 +40743,7 @@
                 "open_issues": 13,
                 "owner": "fergusstrange",
                 "repo": "embedded-postgres",
-                "stars": 1225,
+                "stars": 1226,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -41768,7 +41768,7 @@
                 "open_issues": 7,
                 "owner": "PuerkitoBio",
                 "repo": "goquery",
-                "stars": 14986,
+                "stars": 14987,
                 "topics": [
                   "goquery",
                   "html-parsing",
@@ -41811,8 +41811,8 @@
                 "id": 49766020,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-04T22:59:47Z",
-                "open_issues": 92,
+                "last_commit": "2026-09-06T15:00:37Z",
+                "open_issues": 93,
                 "owner": "mvdan",
                 "repo": "sh",
                 "stars": 9040,
@@ -42261,7 +42261,7 @@
                 "open_issues": 26,
                 "owner": "JohannesKaufmann",
                 "repo": "html-to-markdown",
-                "stars": 3807,
+                "stars": 3809,
                 "topics": [
                   "cli",
                   "converter",
@@ -43306,7 +43306,7 @@
             "open_issues": 37,
             "owner": "google",
             "repo": "go-github",
-            "stars": 11293,
+            "stars": 11294,
             "topics": [
               "github",
               "github-api",
@@ -43333,7 +43333,7 @@
             "open_issues": 0,
             "owner": "aws",
             "repo": "aws-sdk-go",
-            "stars": 8672,
+            "stars": 8671,
             "topics": [
               "aws",
               "aws-sdk",
@@ -43383,7 +43383,7 @@
             "open_issues": 20,
             "owner": "googleapis",
             "repo": "google-api-go-client",
-            "stars": 4470,
+            "stars": 4471,
             "topics": [
               "go"
             ]
@@ -43435,7 +43435,7 @@
             "open_issues": 231,
             "owner": "bwmarrin",
             "repo": "discordgo",
-            "stars": 5980,
+            "stars": 5982,
             "topics": [
               "discord",
               "discord-api",
@@ -43516,7 +43516,7 @@
             "open_issues": 7,
             "owner": "dghubble",
             "repo": "go-twitter",
-            "stars": 1565,
+            "stars": 1564,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -43778,7 +43778,7 @@
             "open_issues": 27,
             "owner": "n0madic",
             "repo": "twitter-scraper",
-            "stars": 970,
+            "stars": 969,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -44423,7 +44423,7 @@
             "open_issues": 0,
             "owner": "nishanths",
             "repo": "go-xkcd",
-            "stars": 51,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -45525,11 +45525,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T15:36:21Z",
-            "open_issues": 328,
+            "last_commit": "2026-09-06T10:36:45Z",
+            "open_issues": 329,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82831,
+            "stars": 82847,
             "topics": [
               "bash",
               "cli",
@@ -45561,7 +45561,7 @@
             "open_issues": 294,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22954,
+            "stars": 22957,
             "topics": [
               "git",
               "github-api",
@@ -45588,7 +45588,7 @@
             "open_issues": 120,
             "owner": "bcicen",
             "repo": "ctop",
-            "stars": 17836,
+            "stars": 17838,
             "topics": [
               "command-line",
               "commandline",
@@ -45617,7 +45617,7 @@
             "open_issues": 395,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17727,
+            "stars": 17730,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -45663,8 +45663,8 @@
             "id": 77071454,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T22:55:35Z",
-            "open_issues": 206,
+            "last_commit": "2026-09-06T22:45:49Z",
+            "open_issues": 21,
             "owner": "goreleaser",
             "repo": "goreleaser",
             "stars": 16019,
@@ -45871,8 +45871,8 @@
             "id": 20015012,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:30:24Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-06T19:22:44Z",
+            "open_issues": 40,
             "owner": "tdewolff",
             "repo": "minify",
             "stars": 4140,
@@ -46062,7 +46062,7 @@
             "open_issues": 44,
             "owner": "tmrts",
             "repo": "boilr",
-            "stars": 1762,
+            "stars": 1761,
             "topics": [
               "boilerplate",
               "boilerplate-template",
@@ -47030,7 +47030,7 @@
             "open_issues": 0,
             "owner": "ivpusic",
             "repo": "rerun",
-            "stars": 164,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -49564,7 +49564,7 @@
             "open_issues": 66,
             "owner": "google",
             "repo": "uuid",
-            "stars": 6143,
+            "stars": 6142,
             "topics": [
               "go",
               "uuid"
@@ -49588,7 +49588,7 @@
             "open_issues": 8,
             "owner": "oklog",
             "repo": "ulid",
-            "stars": 5052,
+            "stars": 5051,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -49814,7 +49814,7 @@
             "open_issues": 324,
             "owner": "go-playground",
             "repo": "validator",
-            "stars": 20146,
+            "stars": 20143,
             "topics": [
               "error-handling",
               "translation",
@@ -50074,7 +50074,7 @@
             "open_issues": 199,
             "owner": "hapijs",
             "repo": "joi",
-            "stars": 21177,
+            "stars": 21176,
             "topics": [
               "hapi",
               "javascript",
@@ -50158,7 +50158,7 @@
             "open_issues": 229,
             "owner": "go-git",
             "repo": "go-git",
-            "stars": 7700,
+            "stars": 7701,
             "topics": [
               "git",
               "git-client",
@@ -50224,7 +50224,7 @@
             "open_issues": 84,
             "owner": "libgit2",
             "repo": "git2go",
-            "stars": 2006,
+            "stars": 2007,
             "topics": [
               "git2go",
               "libgit2"
@@ -50325,7 +50325,7 @@
             "open_issues": 16,
             "owner": "gabyx",
             "repo": "Githooks",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "best-practices",
               "containerization",
@@ -50600,7 +50600,7 @@
             "open_issues": 20,
             "owner": "bluenviron",
             "repo": "gortsplib",
-            "stars": 935,
+            "stars": 936,
             "topics": [
               "aac",
               "go",
@@ -50767,10 +50767,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-15T05:44:19Z",
-            "open_issues": 771,
+            "open_issues": 769,
             "owner": "gin-gonic",
             "repo": "gin",
-            "stars": 89173,
+            "stars": 89177,
             "topics": [
               "framework",
               "gin",
@@ -50796,7 +50796,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-02T05:43:10Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "labstack",
             "repo": "echo",
             "stars": 32693,
@@ -50830,11 +50830,11 @@
             "id": 234231371,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-05T18:42:57Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-06T19:29:44Z",
+            "open_issues": 40,
             "owner": "gofiber",
             "repo": "fiber",
-            "stars": 40128,
+            "stars": 40130,
             "topics": [
               "express",
               "expressjs",
@@ -50871,7 +50871,7 @@
             "open_issues": 94,
             "owner": "revel",
             "repo": "revel",
-            "stars": 13215,
+            "stars": 13214,
             "topics": [
               "hacktoberfest",
               "revel",
@@ -50894,11 +50894,11 @@
             "id": 27579614,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T17:30:51Z",
+            "last_commit": "2026-09-06T17:52:16Z",
             "open_issues": 38,
             "owner": "goadesign",
             "repo": "goa",
-            "stars": 6096,
+            "stars": 6097,
             "topics": [
               "api",
               "code-generation",
@@ -51622,7 +51622,7 @@
             "id": 168350577,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T07:32:59Z",
+            "last_commit": "2026-09-06T20:13:16Z",
             "open_issues": 15,
             "owner": "beatlabs",
             "repo": "patron",
@@ -51989,7 +51989,7 @@
                 "open_issues": 18,
                 "owner": "ulule",
                 "repo": "limiter",
-                "stars": 2342,
+                "stars": 2343,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -52559,7 +52559,7 @@
             "open_issues": 568,
             "owner": "tinygo-org",
             "repo": "tinygo",
-            "stars": 17698,
+            "stars": 17702,
             "topics": [
               "adafruit",
               "arduino",
@@ -52982,11 +52982,11 @@
             "id": 335952417,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T21:20:55Z",
-            "open_issues": 175,
+            "last_commit": "2026-09-06T13:24:51Z",
+            "open_issues": 164,
             "owner": "sigstore",
             "repo": "cosign",
-            "stars": 6280,
+            "stars": 6282,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -53007,7 +53007,7 @@
             "open_issues": 122,
             "owner": "spiffe",
             "repo": "spire",
-            "stars": 2518,
+            "stars": 2520,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -53025,7 +53025,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-07-10T18:05:25Z",
-            "open_issues": 40,
+            "open_issues": 39,
             "owner": "in-toto",
             "repo": "in-toto-golang",
             "stars": 152,
@@ -53138,11 +53138,11 @@
             "id": 132232698,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T09:59:38Z",
-            "open_issues": 152,
+            "last_commit": "2026-09-06T09:02:27Z",
+            "open_issues": 153,
             "owner": "go-critic",
             "repo": "go-critic",
-            "stars": 2067,
+            "stars": 2068,
             "topics": [
               "conventions",
               "go",
@@ -53221,7 +53221,7 @@
             "open_issues": 39,
             "owner": "jfeliu007",
             "repo": "goplantuml",
-            "stars": 2085,
+            "stars": 2084,
             "topics": [
               "diagram",
               "diagram-generator",
@@ -53840,7 +53840,7 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-04T22:10:17Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "golang",
             "repo": "tools",
             "stars": 8000,
@@ -54726,7 +54726,7 @@
                 "language": "Go",
                 "license": null,
                 "last_commit": "2026-07-13T16:08:02Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "dariubs",
                 "repo": "GoBooks",
                 "stars": 19657,
@@ -54768,7 +54768,7 @@
                 "open_issues": 33,
                 "owner": "polaris1119",
                 "repo": "The-Golang-Standard-Library-by-Example",
-                "stars": 9541,
+                "stars": 9540,
                 "topics": [
                   "go",
                   "golang",
@@ -54822,7 +54822,7 @@
                 "open_issues": 139,
                 "owner": "astaxie",
                 "repo": "build-web-application-with-golang",
-                "stars": 43908,
+                "stars": 43906,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:29:36.039Z"
@@ -54872,7 +54872,7 @@
                 "open_issues": 2,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23861,
+                "stars": 23865,
                 "topics": [
                   "go",
                   "golang",
@@ -55065,7 +55065,7 @@
                 "open_issues": 11,
                 "owner": "evrone",
                 "repo": "go-clean-template",
-                "stars": 7668,
+                "stars": 7670,
                 "topics": [
                   "clean-architecture",
                   "dependency-injection",
@@ -55090,7 +55090,7 @@
                 "id": 277099526,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2025-09-23T09:42:00Z",
+                "last_commit": "2026-09-06T10:50:44Z",
                 "open_issues": 0,
                 "owner": "naughtygopher",
                 "repo": "goapp",
@@ -55171,7 +55171,7 @@
             "open_issues": 5,
             "owner": "smallnest",
             "repo": "go-web-framework-benchmark",
-            "stars": 2135,
+            "stars": 2134,
             "topics": [
               "benchmark",
               "concurrency",
@@ -55518,7 +55518,7 @@
             "open_issues": 2,
             "owner": "MariaLetta",
             "repo": "free-gophers-pack",
-            "stars": 3982,
+            "stars": 3983,
             "topics": [
               "blog",
               "character",
@@ -55731,7 +55731,7 @@
             "open_issues": 0,
             "owner": "keygx",
             "repo": "Go-gopher-Vector",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "ai",
               "golang",
@@ -55784,7 +55784,7 @@
             "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33654,
+            "stars": 33656,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:36.039Z"
@@ -55805,7 +55805,7 @@
             "open_issues": 88,
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48390,
+            "stars": 48421,
             "topics": [
               "awesome",
               "awesome-list",
@@ -55903,7 +55903,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:01:17.103Z",
+    "last_updated": "2026-09-06T22:55:35.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于avelino/awesome-go,显示GitHub上golang相关的开源项目信息",
